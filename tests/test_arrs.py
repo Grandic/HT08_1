@@ -1,5 +1,4 @@
 import unittest
-from utils import arrs
 from utils.arrs import get, my_slice
 
 
